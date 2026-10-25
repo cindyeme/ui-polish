@@ -7,7 +7,7 @@ Works with Claude Code, Cursor, Codex, OpenCode, GitHub Copilot and other agents
 ## Install
 
 ```bash
-npx skills add <your-github-username>/ui-polish
+npx skills add cindyeme/ui-polish
 ```
 
 Or copy `skills/ui-polish/` into your agent's skills folder (for Claude Code, `~/.claude/skills/` or `.claude/skills/` in a project).
