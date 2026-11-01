@@ -1,6 +1,6 @@
 # UI Audit Checklist
 
-Use for a full review of any screen. Each check has a test, the common failure and the fix. Report failures most-impactful first, not in this order. For product pages, also run the commerce checks in [product-pages.md](product-pages.md).
+Use for a full review of any screen. Each check has a test, the common failure and the fix. Report failures most-impactful first, not in this order. For product pages, also run the commerce checks in [product-pages.md](product-pages.md). For any screen that shows or moves money, also run the checks in [money-flows.md](money-flows.md).
 
 ## A. Visual system
 

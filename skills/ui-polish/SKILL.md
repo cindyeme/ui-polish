@@ -1,9 +1,9 @@
 ---
 name: ui-polish
-description: "Audit, fix and polish user interfaces so they feel clear, calm, trustworthy and premium. Use when designing or building any UI screen or component (web or mobile), reviewing a screenshot, Figma frame or front-end code, or when asked why a UI looks off, cluttered or amateur and how to improve its hierarchy, alignment, spacing, color, typography, icons, labels or primary action. Includes a dedicated playbook for e-commerce product pages."
+description: "Audit, fix and polish user interfaces so they feel clear, calm, trustworthy and premium. Use when designing or building any UI screen or component (web or mobile), reviewing a screenshot, Figma frame or front-end code, or when asked why a UI looks off, cluttered or amateur and how to improve its hierarchy, alignment, spacing, color, typography, icons, labels or primary action. Includes dedicated playbooks for e-commerce product pages and for money flows (balances, send and pay, currency conversion, transaction status, history and receipts)."
 license: MIT
 metadata:
-  version: "1.1.0"
+  version: "1.2.0"
   category: "ui-ux-design"
 ---
 
@@ -21,6 +21,7 @@ Treat every screen as part of a **system**, not a single mockup. Real screens ge
 
 **Context-specific playbooks.** Load the matching reference when it applies:
 - E-commerce product pages, product cards, add-to-cart or checkout steps → [references/product-pages.md](references/product-pages.md)
+- Balances, send and pay flows, currency conversion, transaction lists and details, receipts, payout or funding status → [references/money-flows.md](references/money-flows.md)
 
 For a full, item-by-item audit of any screen, load [references/audit-checklist.md](references/audit-checklist.md).
 
