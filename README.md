@@ -20,12 +20,14 @@ Ask your agent things like:
 - "Why does this dashboard feel cluttered? Fix it"
 - "Audit this screenshot for UI/UX issues"
 - "Build a mobile product page for organic strawberries"
+- "Review this send-money flow"
 
 It checks alignment and grid, spacing, color, typography, labels and badges, information placement, icon consistency, dividers and the primary action, stress-tests the design with real-world content, and suggests experience improvements once the basics are clean.
 
 ### Playbooks
 
 - **Product pages** — imagery that works across a catalog, title / rating / price placement, quantity and add-to-cart design, sticky actions and quantity presets.
+- **Money flows** — currency-correct amounts, amount input, exchange rates and fees, the send flow, transaction states that say where the money is, transaction history and receipts.
 
 More playbooks (forms, dashboards, onboarding…) can be added under `references/`.
 
@@ -38,6 +40,7 @@ skills/
     references/
       audit-checklist.md          # 15 checks: test → failure → fix
       product-pages.md            # e-commerce playbook
+      money-flows.md              # fintech / payments playbook
 ```
 
 ## License
